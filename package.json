@@ -1,0 +1,18 @@
+{
+  "name": "latihan-fetch-data",
+  "version": "1.0.0",
+  "description": "Latihan fetch data dari rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "mzfais",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
